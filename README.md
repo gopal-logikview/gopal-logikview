@@ -29,7 +29,7 @@ I'm a passionate software developer working primarily with **Java** technologies
 
 ### 🎓 Education
 
-- Completed **B.Tech** in [Your Major] from [Your University].
+- Completed **B.Tech** in CSE from Rajiv Gandhi Prodyogiki University.
 
 ---
 <!--
