@@ -1,54 +1,144 @@
-# 👋 Hello, I'm Gopal Kushwah!
+```md
+# Hi there 👋, I'm Gopal Kushwah
 
-### 👨‍💻 About Me
+## 🚀 Java Backend Developer | Spring Boot Developer
 
-I'm a passionate software developer working primarily with **Java** technologies. My journey has led me through a range of frameworks and tools that help create robust, efficient, and scalable solutions. Here's a bit more about what I do:
+I'm a passionate Java Developer with **2.8+ years of experience** building scalable enterprise applications and backend systems using Java, Spring Boot, Hibernate, and REST APIs.
 
----
-
-### 🚀 What I'm Working On
-
-- **Java Frameworks**: Experienced in using **Spring**, **Hibernate**, and **Spring Boot** to develop scalable applications.
-- **Frontend Development**: Building user interfaces with **React.js**, making applications more interactive and engaging.
-- **Project Management Tools**: Managing tasks and collaborations using **GitHub**, **JIRA**, and more.
-- **Version Control**: Skilled in using Git for version control and managing codebases in collaborative environments.
+Currently working on government-level enterprise applications focused on Intellectual Property Management systems.
 
 ---
 
-### 🌐 Tech Stack
+## 👨‍💻 About Me
 
-- **Languages**: Java, JavaScript, HTML, CSS
-- **Backend Frameworks**: Spring Boot, Spring MVC, Hibernate
-- **Frontend Frameworks**: React.js
-- **Databases**: MySQL, PostgreSQL
-- **Version Control**: Git, GitHub
-- **Tools**: JIRA, IntelliJ IDEA, Eclipse, Visual Studio Code
-- **Others**: Familiar with Docker, Maven, Jenkins, and RESTful API development.
+- 🔭 Currently working at **Logikview Analytics Ltd.**
+- 🌱 Exploring **Microservices, Kubernetes, and Cloud Technologies**
+- 💡 Strong experience in **Backend Development & REST APIs**
+- 🛠️ Passionate about solving real-world problems through scalable software
+- 📍 Based in India
 
 ---
 
-### 🎓 Education
+## 🧰 Tech Stack
 
-- Completed **B.Tech** in CSE from Rajiv Gandhi Prodyogiki University.
+### 🚀 Backend
+- Java
+- Spring Framework
+- Spring Boot
+- Hibernate
+- JPA
+- Spring Security
+- JWT
+- REST APIs
+
+### 💾 Databases
+- MySQL
+- PostgreSQL
+- MongoDB
+
+### 🌐 Frontend
+- HTML5
+- CSS3
+- JavaScript
+- Thymeleaf
+- JSP
+- jQuery
+
+### ⚙️ DevOps & Tools
+- Docker
+- Jenkins
+- Git & GitHub
+- Bitbucket
+- Maven
+- Gradle
+- SonarQube
+- Postman
+- JIRA
 
 ---
-<!--
-### 📫 Let's Connect!
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
--->
+## 📌 Projects
+
+### 🏛️ IPSYS – Malta Government Intellectual Property System
+
+Enterprise-level Intellectual Property management system for handling:
+- Trademarks
+- Designs
+- Patents
+
+#### Responsibilities:
+- Worked on modules like EBD, Front Office, NR, CTI & CTI Certificates
+- Developed backend services using Java & Spring
+- Built and consumed REST APIs
+- Implemented workflows using BPMN & Drools
+- Optimized application performance and resolved production issues
+
+#### Tech Used:
+`Java` `Spring` `MySQL` `REST APIs` `JavaScript` `jQuery`
+
 ---
 
-### 💬 Ask Me About
+### 💼 Taskryt Web Application
 
-I'm always open to discussing new projects, ideas, and tech trends! Feel free to reach out if you’d like to chat about:
+A job portal and learning platform with:
+- User authentication
+- Job listings
+- Course management
+- Certification handling
 
-- Java, Spring Boot, and backend development
-- Building interactive UIs with React
-- Domain-Driven Design (DDD) and software architecture principles
+#### Tech Used:
+`Spring Boot` `PostgreSQL` `Thymeleaf` `Spring Security`
 
 ---
 
-Thanks for stopping by, and feel free to explore my repositories for some of the projects I've been working on! 😊
+### 📊 Lead Management Platform
+
+CRM-based lead management platform with:
+- Employee, Admin & Super Admin modules
+- Lead tracking & forwarding
+- Authentication & authorization
+
+#### Tech Used:
+`Java` `Spring Boot` `PostgreSQL` `JSP` `Hibernate`
+
+---
+
+## 💼 Experience
+
+### Java Developer — Logikview Analytics Ltd.
+📍 Indore, India  
+🗓️ Sept 2024 – Present
+
+- Working on enterprise-level government applications
+- Backend development using Java & Spring Boot
+- Performance optimization and debugging
+
+### Java Developer — Panditsoft Services Pvt. Ltd.
+📍 Noida, India  
+🗓️ May 2023 – June 2024
+
+- Developed scalable web applications
+- Built REST APIs and backend services
+- Collaborated in Agile development teams
+
+---
+
+## 🎓 Education
+
+🎓 **B.Tech in Computer Science & Engineering**  
+Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/gopalkushwah
+- 💻 GitHub: https://github.com/gopalkushwah
+- 📧 Email: developer.gopal15@gmail.com
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building scalable backend systems, optimizing performance, and learning modern DevOps & cloud technologies.
+```
